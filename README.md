@@ -178,6 +178,8 @@
 
 ![chat_list_cut](README.assets/chat_list_cut.png)
 
+![Doit_채팅영상](README.assets/Doit_채팅영상.gif)
+
 
 
 #### 마일리지 적립내역
