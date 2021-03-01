@@ -27,10 +27,6 @@
 
 
 
-![Doit Tech Stack](README.assets/image-20210221223143666.png)
-
-
-
 ## 💎주요기능
 
 #### 검색
